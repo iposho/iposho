@@ -9,6 +9,8 @@
 <p align="justify">Specialised in frontend development and team management.
 </p>
 
+<br/>
+
 <h2>Favorite tools</h2>
 <h3>‍💻 Programming and markup languages</h3>
 
@@ -49,6 +51,7 @@
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=Firebase&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" />
     <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white" />
+    <img alt="IFTTT" src="https://img.shields.io/badge/IFTTT-000000.svg?logo=Webpack&logoColor=white" />
     <img alt="macOS" src="https://img.shields.io/badge/macOS-000000.svg?logo=macOS&logoColor=white" />
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=Netlify&logoColor=white" />
     <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white" />
@@ -58,6 +61,8 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
 </p>
+
+<br />
 
 <h2>Github Stats</h2>
 
