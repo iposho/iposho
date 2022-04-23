@@ -4,9 +4,18 @@
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=iposho&style=flat-square"></h2>
 
-<p align="justify">I am a Frontend developer with 7 years of coding experience. Currently based in Yerevan, Armenia.</p>
+<p align="justify">I am a Frontend developer and teamlead with 7 years of coding experience who loves making high-quality websites and applications. Currently based in Yerevan, Armenia 🇦🇲.</p>
 
 <p align="justify">Specialised in frontend development and team management.
+</p>
+
+<p align="justify">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier.</p>
+
+<p align="justify">Besides that i have many expirience in teams management and work with people. I hope, i can to make theirs lives and workflows easier too. I know how to train and mentor juniors developers.</p>
+
+<p align="justify">I love open source, but usually don't contribute something to public repositories.</p>
+
+<p align="justify">In a past life I wrote regular blog posts, but currently it's not regurally thing.
 </p>
 
 <br/>
