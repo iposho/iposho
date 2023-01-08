@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iposho&theme=github" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=iposho&theme=github" />
 </p>
