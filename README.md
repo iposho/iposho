@@ -2,12 +2,14 @@
     <img src="images/logo.jpg" alt="Pavel Kuzyakin" />
 </a>
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=iposho&style=flat-square"></h2>
+<h2>
+    About Me
+    <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=iposho&style=flat-square">
+</h2>
 
 <p dir="ltr">I am a Frontend developer and teamlead with 7 years of coding experience who loves making high-quality websites and applications. Currently based in Yerevan, Armenia 🇦🇲.</p>
 
-<p dir="ltr">Specialised in frontend development and team management.
-</p>
+<p dir="ltr">Specialised in frontend development and team management.</p>
 
 <p dir="ltr">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier.</p>
 
@@ -15,26 +17,48 @@
 
 <p dir="ltr">I love open source, but usually don't contribute something to public repositories.</p>
 
-<p dir="ltr">In a past life I wrote regular blog posts, but currently it's not regurally thing.
-</p>
+<p dir="ltr">In a past life I wrote regular blog posts, but currently it's not regurally thing.</p>
 
 <br/>
 
 <h2>Favorite tools</h2>
+
 <h3>‍💻 Programming and markup languages</h3>
 
 <p>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="https://github.com/search?q=user%3Aiposho+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aiposho+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Abash">
+        <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Ahtml">
+        <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Acss">
+        <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Asass">
+        <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Ajavascript">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3AtypeScript">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Amarkdown">
+        <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Ajavascript">
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Aphp">
+        <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Asql">
+        <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Aiposho+language%3Asvg">
+        <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
+    </a>
 </p>
 
 <h3>🧰 Frameworks and libraries</h3>
