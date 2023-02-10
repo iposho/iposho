@@ -93,6 +93,7 @@
     <img alt="PHPStorm" src="https://img.shields.io/badge/PhpStorm-000000.svg?logo=PhpStorm&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-444444?logo=vercel&logoColor=white" />
 </p>
 
 <br />
