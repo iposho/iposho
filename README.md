@@ -107,7 +107,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iposho&count_private=true&show_icons=true" width="100%" alt="Stats" />
 </p>
-
-<p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=iposho&theme=github" />
-</p>
