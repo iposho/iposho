@@ -1,7 +1,3 @@
-<a href="https://kuzyak.in" align="center">
-    <img src="images/logo.jpg" alt="Pavel Kuzyakin" />
-</a>
-
 <h2>
     About Me
     <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=iposho&style=flat-square">
