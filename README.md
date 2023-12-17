@@ -3,17 +3,13 @@
     <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=iposho&style=flat-square">
 </h2>
 
-<p dir="ltr">I am a Frontend developer and teamlead with 7 years of coding experience who loves making high-quality websites and applications. Currently based in Yerevan, Armenia 🇦🇲.</p>
+<p>I'm a frontend developer with 8+ years of experience. Currently based in Yerevan, Armenia 🇦🇲.</p>
 
-<p dir="ltr">Specialised in frontend development and team management.</p>
+<p>I began my journey with the basics of HTML and CSS, starting as a front-end coder. Progressing through the study of JQuery and vanilla JavaScript, I elevated my skills to the level of a full-fledged front-end developer. This led me to engage in projects involving TypeScript, React, and occasionally Node.js.</p>
 
-<p dir="ltr">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier.</p>
+<p>Beyond my development experience, I also possess hands-on experience working with individuals, leading both teams and projects with the resulting implications: creating development plans, recruitment and onboarding, training, and more.</p>
 
-<p dir="ltr">Besides that i have many expirience in teams management and work with people. I hope, i can to make theirs lives and workflows easier too. I know how to train and mentor juniors developers.</p>
-
-<p dir="ltr">I love open source, but usually don't contribute something to public repositories.</p>
-
-<p dir="ltr">In a past life I wrote regular blog posts, but currently it's not regurally thing.</p>
+<p>I am most comfortable working in dynamic startups and small companies. I strive for the opportunity to effect positive changes without unnecessary bureaucracy and to achieve tangible results within short timeframes. My aptitude for establishing order and organizing processes, combined with hiring experience and inherent charisma paired with a great sense of humor enable me to effectively influence the work environment.</p>
 
 <br/>
 
