@@ -93,9 +93,13 @@
 <h2>Github Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iposho&layout=compact" width="100%" alt="Top langs" /> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iposho&theme=dracula" width="100%" alt="Pavel Kuzyakin's github activity graph" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iposho&count_private=true&show_icons=true" width="100%" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iposho&layout=compact" width="100%" alt="Top langs" /> 
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=iposho&count_private=true&show_icons=true" width="100%" alt="Stats" />
 </p>
