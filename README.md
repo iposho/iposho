@@ -5,11 +5,11 @@
 
 <p>I'm a frontend developer with 8+ years of experience. Currently based in Yerevan, Armenia 🇦🇲.</p>
 
-<p>I began my journey with the basics of HTML and CSS, starting as a front-end coder. Progressing through the study of JQuery and vanilla JavaScript, I elevated my skills to the level of a full-fledged front-end developer. This led me to engage in projects involving TypeScript, React, and occasionally Node.js.</p>
+<p>I started my journey with the basics of HTML and CSS as a front-end coder. As I progressed through learning jQuery and vanilla JavaScript, I developed my skills to become a full-fledged front-end developer. This led me to work on projects using TypeScript, React, and occasionally Node.js.</p>
 
-<p>Beyond my development experience, I also possess hands-on experience working with individuals, leading both teams and projects with the resulting implications: creating development plans, recruitment and onboarding, training, and more.</p>
+<p>In addition to my technical expertise, I have hands-on experience leading teams and managing projects. This includes creating development plans, recruiting and onboarding, training, and more.</p>
 
-<p>I am most comfortable working in dynamic startups and small companies. I strive for the opportunity to effect positive changes without unnecessary bureaucracy and to achieve tangible results within short timeframes. My aptitude for establishing order and organizing processes, combined with hiring experience and inherent charisma paired with a great sense of humor enable me to effectively influence the work environment.</p>
+<p>I thrive in dynamic startups and small companies, where I can drive positive change without unnecessary bureaucracy and achieve tangible results in short timeframes. My ability to establish order, organize processes, combined with hiring experience and natural charisma (and a good sense of humor) allows me to effectively influence and improve work environments.</p>
 
 <br/>
 
