@@ -3,7 +3,7 @@
     <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=iposho&style=flat-square">
 </h2>
 
-<p>I'm a frontend developer with 8+ years of experience. Currently based in Yerevan, Armenia 🇦🇲.</p>
+<p>I'm a frontend developer with 10+ years of experience. Currently based in Yerevan, Armenia 🇦🇲.</p>
 
 <p>I started my journey with the basics of HTML and CSS as a front-end coder. As I progressed through learning jQuery and vanilla JavaScript, I developed my skills to become a full-fledged front-end developer. This led me to work on projects using TypeScript, React, and occasionally Node.js.</p>
 
