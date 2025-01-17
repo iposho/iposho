@@ -14,6 +14,12 @@
 ## Contacts
 
 <p>
+  <a href="mailto:pavel@kuzyak.in" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/pavel@kuzyak.in-d14836.svg?logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://kuzyak.in" target="_blank">
+  <img alt="Website" src="https://img.shields.io/badge/kuzyak.in-FFFFFF.svg?logo=Homepage&logoColor=#444" />
+</a>
   <a href="https://linkedin.com/in/pashakuzyakin" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" />
   </a>
@@ -23,7 +29,12 @@
   <a href="https://twitter.com/pavelkuzyakin" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white" />
   </a>
+    <a href="https://facebook.com/pashakuzyakin" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Facebook-0866FF.svg?logo=facebook&logoColor=white" />
+</a>
 </p>
+
+<br />
 
 <h2>Favorite tools</h2>
 
@@ -102,6 +113,7 @@
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-444444?logo=vercel&logoColor=white" />
   </p>
 </details>
+
 <br />
 
 <h2>Github Stats</h2>
@@ -111,7 +123,7 @@
 </p>
 
 <p align="center">
-    <img width="50%" src="https://wakatime.com/share/@posho/d8ed7405-311d-46c1-af7b-91316e594f9f.png" />
+    <img width="50%" src="https://wakatime.com/share/@posho/d8ed7405-311d-46c1-af7b-91316e594f9f.png" border="1" />
 </p>
 
 <p align="center">
