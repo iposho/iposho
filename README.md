@@ -43,11 +43,11 @@ I'm a Frontend Developer based in Yerevan, Armenia 🇦🇲, with 10+ years of e
   </tr>
   <tr>
     <td>🌐</td>
-    <td>React (Hooks, Redux), Next.js, Modern CSS (SCSS, Styled Components, Tailwind), Responsive Design, GraphQL</td>
+    <td>React (Hooks, Redux), Next.js, Material UI, Modern CSS (SCSS, Styled Components, Tailwind), Responsive Design, GraphQL</td>
   </tr>
   <tr>
     <td>🛠️</td>
-    <td>Git & GitHub, GitHub Actions, npm/yarn, Webpack, Vite, Docker, Firebase, Supabase, Google Cloud, Vercel, Netlify, Cloudflare</td>
+    <td>Git & GitHub, GitHub Actions, npm/yarn, Webpack, Vite, Docker, Firebase, Supabase, Google Cloud, Vercel, Netlify, Cloudflare, Ubuntu</td>
   </tr>
   <tr>
     <td>🧪</td>
@@ -62,7 +62,6 @@ I'm a Frontend Developer based in Yerevan, Armenia 🇦🇲, with 10+ years of e
     <td>WebStorm, VS Code, Sublime Text</td>
   </tr>
 </table>
-
 
 <br>
 
