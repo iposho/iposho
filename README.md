@@ -69,8 +69,6 @@ I'm a Frontend Developer based in Yerevan, Armenia 🇦🇲, with 10+ years of e
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iposho&theme=react-dark" width="100%" alt="Activity Graph">
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=posho&layout=compact&theme=react" width="100%" alt="WakaTime Stats">
 </div>
 
 <br>
