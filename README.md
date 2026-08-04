@@ -1,6 +1,6 @@
 <img src="images/bg.png" alt="Background" width="100%" height="100%" />
 
-<img align="right" src="https://komarev.com/ghpvc/?username=iposho&style=flat-square" alt="Profile Hits" height="20"><img align="right" src="https://img.shields.io/badge/Not_Open_for_Work-red?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Not Open for Work" height="20"> 
+<img align="right" src="https://komarev.com/ghpvc/?username=iposho&style=flat-square" alt="Profile Hits" height="20"><img align="right" src="https://img.shields.io/badge/Open_for_Work-green?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Open for Work" height="20"> 
   
 ## 🚀 About Me
 
