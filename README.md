@@ -68,7 +68,7 @@ I'm a Frontend Developer based in Yerevan, Armenia 🇦🇲, with 10+ years of e
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iposho&theme=react-dark" width="100%" alt="Activity Graph">
+  <img src="https://github-stats-extended.vercel.app/api?username=iposho&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=default_repocard" width="49%" alt="Activity Graph"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=iposho&langs_count=8&theme=default_repocard" width="" alt="Activity Graph">
 </div>
 
 <br>
